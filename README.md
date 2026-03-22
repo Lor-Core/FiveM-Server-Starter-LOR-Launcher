@@ -2,6 +2,8 @@
 
 A modern FiveM server manager — control your local or VPS-hosted server from one clean interface.
 
+>— Please note this hasn’t been fully tested. For bugs, questions, or suggestions, reach out to me on [Discord](https://discord.gg/NnQUz5gMER).
+
 -----
 
 ## Installation
