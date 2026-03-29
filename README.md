@@ -12,13 +12,12 @@ A modern FiveM server manager — control your local or VPS-hosted server from o
 1. Double-click it and follow the install wizard
 1. Launch **LOR Launcher** from your Desktop or Start Menu
 
-> Requires [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) — if the app doesn’t open, install that first.
-
 -----
 
 ## First Launch
 
-On first launch you’ll be asked to select your server start file. Browse to your FiveM server folder and pick your `start.bat`, `start.cmd` or `FXServer.exe`. LOR Launcher will remember this for every future launch.
+On first launch you’ll be asked to select your server start file. Browse to your FiveM server folder and pick the `start.bat`.
+Your `start.bat` needs to go where your FXServer.exe is and your .cfg in your resources folder.
 
 -----
 
